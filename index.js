@@ -1,5 +1,3 @@
-// TourUser
-// qcDjRBwf7S6U8CCw
 
 const express=require('express');
 const app=express();
